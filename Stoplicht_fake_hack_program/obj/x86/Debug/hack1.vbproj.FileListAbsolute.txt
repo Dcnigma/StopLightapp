@@ -1,0 +1,10 @@
+C:\Users\Dcnigma\AppData\Local\Temporary Projects\hack1\bin\Debug\hack1.exe
+C:\Users\Dcnigma\AppData\Local\Temporary Projects\hack1\bin\Debug\hack1.pdb
+C:\Users\Dcnigma\AppData\Local\Temporary Projects\hack1\bin\Debug\hack1.xml
+C:\Users\Dcnigma\AppData\Local\Temporary Projects\hack1\obj\x86\Debug\hack1.Form1.resources
+C:\Users\Dcnigma\AppData\Local\Temporary Projects\hack1\obj\x86\Debug\hack1.Resources.resources
+C:\Users\Dcnigma\AppData\Local\Temporary Projects\hack1\obj\x86\Debug\hack1.vbproj.GenerateResource.Cache
+C:\Users\Dcnigma\AppData\Local\Temporary Projects\hack1\obj\x86\Debug\hack1.exe
+C:\Users\Dcnigma\AppData\Local\Temporary Projects\hack1\obj\x86\Debug\hack1.xml
+C:\Users\Dcnigma\AppData\Local\Temporary Projects\hack1\obj\x86\Debug\hack1.pdb
+C:\Users\Dcnigma\AppData\Local\Temporary Projects\hack1\obj\x86\Debug\hack1.info.resources
